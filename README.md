@@ -38,7 +38,7 @@ Pac-Man-Game/
 │   │   ├── Main.java
 │   │   ├── MainMenuController.java
 │   │   ├── RulesPageController.java
-│   │   ├── GameController.java
+│   │   ├── Model.java
 │   ├── fxml/
 │   │   ├── MainMenu.fxml
 │   │   ├── GameRules.fxml
@@ -49,7 +49,11 @@ Pac-Man-Game/
 ├── resources/
 │   ├── images/
 │   │   ├── background.jpg
-│   │   ├── pacman.gif
+│   │   ├── up.gif
+│   │   ├── down.gif
+│   │   ├── left.gif
+│   │   ├── right.gif
+│   │   ├── heart.png
 │   │   ├── ghost.png
 ├── README.md
 
